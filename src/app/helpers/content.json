@@ -1,0 +1,142 @@
+[
+    {
+        "position": 1,
+        "name": "Hydrogen",
+        "date": "02-02-2019",
+        "price": 1.0079,
+        "description": "Hydrogen is the chemical element with the symbol H and atomic number"
+    },
+    {
+        "position": 2,
+        "name": "Helium",
+        "date": "02-02-2019",
+        "price": 4.0026,
+        "description": "is a chemical element with the symbol He and atomic number"
+    },
+    {
+        "position": 3,
+        "name": "Lithium",
+        "date": "02-02-2019",
+        "price": 6.941,
+        "description": "Atomic number 3, Carbonate de Lithium, Citrate de Lithium, Li, Lithium Carbonate, Lithium Citrate."
+    },
+    {
+        "position": 4,
+        "name": "Beryllium",
+        "date": "02-02-2019",
+        "price": 9.0122,
+        "description": "Beryllium is a chemical element with the symbol Be and atomic number."
+    },
+    {
+        "position": 5,
+        "name": "Boron",
+        "date": "02-02-2019",
+        "price": 10.811,
+        "description": "Boron is a chemical element with the symbol B and atomic number."
+    },
+    {
+        "position": 6,
+        "name": "Carbon",
+        "date": "02-02-2019",
+        "price": 12.0107,
+        "description": "Carbon (from Latin: carbo coal) is a chemical element with the symbol C and atomic number."
+    },
+    {
+        "position": 7,
+        "name": "Nitrogen",
+        "date": "02-02-2019",
+        "price": 14.0067,
+        "description": "Nitrogen is the chemical element with the symbol N and atomic number."
+    },
+    {
+        "position": 8,
+        "name": "Oxygen",
+        "date": "02-02-2019",
+        "price": 15.9994,
+        "description": "Oxygen is the chemical element with the symbol O and atomic number."
+    },
+    {
+        "position": 9,
+        "name": "Fluorine",
+        "date": "02-02-2019",
+        "price": 18.9984,
+        "description": "Fluorine is a chemical element with the symbol F and atomic number."
+    },
+    {
+        "position": 10,
+        "name": "Neon",
+        "date": "02-02-2019",
+        "price": 20.1797,
+        "description": "Neon is a chemical element with the symbol Ne and atomic number."
+    },
+    {
+        "position": 11,
+        "name": "Sodium",
+        "date": "02-02-2019",
+        "price": 22.9897,
+        "description": "Sodium is a chemical element with the symbol Na (from Latin natrium) and atomic number."
+    },
+    {
+        "position": 12,
+        "name": "Magnesium",
+        "date": "02-02-2019",
+        "price": 24.305,
+        "description": "Magnesium is a mineral found in the earth, sea, plants, animals and humans."
+    },
+    {
+        "position": 13,
+        "name": "Aluminum",
+        "date": "02-02-2019",
+        "price": 26.9815,
+        "description": "Aluminium (aluminum in American and Canadian English) is a chemical element with the symbol Al and atomic number."
+    },
+    {
+        "position": 14,
+        "name": "Silicon",
+        "date": "02-02-2019",
+        "price": 28.0855,
+        "description": "Silicon is a chemical element with the symbol Si and atomic number."
+    },
+    {
+        "position": 15,
+        "name": "Phosphorus",
+        "date": "02-02-2019",
+        "price": 30.9738,
+        "description": "Phosphorus is a chemical element with the symbol P and atomic number."
+    },
+    {
+        "position": 16,
+        "name": "Sulfur",
+        "date": "02-02-2019",
+        "price": 32.065,
+        "description": "Sulfur (in British English, sulphur) is a chemical element with the symbol S and atomic number."
+    },
+    {
+        "position": 17,
+        "name": "Chlorine",
+        "date": "02-02-2019",
+        "price": 35.453,
+        "description": "Chlorine is a chemical element with the symbol Cl and atomic number."
+    },
+    {
+        "position": 18,
+        "name": "Argon",
+        "date": "02-02-2019",
+        "price": 39.948,
+        "description": "Argon is a chemical element with the symbol Ar and atomic number."
+    },
+    {
+        "position": 19,
+        "name": "Potassium",
+        "date": "02-02-2019",
+        "price": 39.0983,
+        "description": "Low potassium can have causes that arent due to underlying disease."
+    },
+    {
+        "position": 20,
+        "name": "Calcium",
+        "date": "02-02-2019",
+        "price": 40.078,
+        "description": "Calcium and vitamin D are essential to building strong, dense bones when you’re young and to keeping them strong and healthy as you age."
+    }
+]
